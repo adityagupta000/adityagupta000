@@ -10,7 +10,7 @@ Mangaluru, Karnataka, India
 
 ## About
 
-Full Stack Developer with experience building AI-powered web applications, secure backend systems, and scalable APIs. During my internship, I shipped a Dockerized ML inference pipeline, performed a security audit that identified 18 vulnerabilities, and resolved a production token refresh race condition with comprehensive automated testing.
+Full Stack Developer with experience building AI-powered web applications, secure backend systems, and scalable APIs. During my internship, I shipped a Dockerized ML inference pipeline, performed a security audit to identified vulnerabilities, and resolved a production token refresh race condition with comprehensive automated testing.
 
 I enjoy designing systems that are secure, maintainable, and well-tested — not just functional.
 
@@ -32,7 +32,7 @@ Published in the *2026 International Conference on Artificial Intelligence and D
 
 **Full Stack Developer Intern — Zynthora.ai** (Jan 2026 – May 2026)
 - Built a production Plant Health Detection System: EfficientNet-B2 model, Node.js + Python FastAPI backend, Dockerized with Redis and SQLite
-- Conducted a security audit of a production codebase (covered by NDA), identifying 18 vulnerabilities with documented root causes and fix patterns
+- Conducted a security audit of a production codebase (covered by NDA), identifying vulnerabilities with documented root causes and fix patterns
 - Fixed a token refresh race condition (RC-001), verified with 10 tests, approved in peer review
 
 ---
