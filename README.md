@@ -4,7 +4,8 @@ Full Stack Developer
 
 Mangaluru, Karnataka, India
 
-[adityagupta.d7@gmail.com](mailto:adityagupta.d7@gmail.com)
+<sub>[adityagupta.d7@gmail.com](mailto:adityagupta.d7@gmail.com)</sub>
+
 ---
 
 ## About
