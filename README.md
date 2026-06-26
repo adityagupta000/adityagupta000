@@ -1,6 +1,6 @@
 # Aditya Gupta
 
-Full Stack Developer | AI & Backend Engineer | IEEE Published Author
+Full Stack Developer
 
 Mangaluru, Karnataka, India
 
@@ -10,73 +10,37 @@ Mangaluru, Karnataka, India
 
 ## About
 
-Full Stack Developer with experience building AI-powered web applications, secure backend systems, and scalable APIs. During my internship, I shipped a Dockerized ML inference pipeline, performed a security audit to identified vulnerabilities, and resolved a production token refresh race condition with comprehensive automated testing.
+I'm a Full Stack Developer who enjoys building complete systems — from backend APIs and databases to frontend interfaces and AI integrations. I care about writing code that's secure, well-tested, and easy to maintain.
 
-I enjoy designing systems that are secure, maintainable, and well-tested — not just functional.
-
----
-
-## Publications
-
-📄 **IEEE Conference Publication**
-
-**Exploring Automated Conversion of 2D Blueprints to 3D Models for Civil Applications using Deep Learning Approaches**
-
-Published in the *2026 International Conference on Artificial Intelligence and Data Engineering (AIDE)* · IEEE Xplore
-
-[ieeexplore.ieee.org/document/11544904](https://ieeexplore.ieee.org/document/11544904)
+I recently completed a full stack internship where I worked on AI-integrated backends, security audits, and bug fixes across production codebases.
 
 ---
 
-## Experience
+## What I Work On
 
-**Full Stack Developer Intern — Zynthora.ai** (Jan 2026 – May 2026)
-- Built a production Plant Health Detection System: EfficientNet-B2 model, Node.js + Python FastAPI backend, Dockerized with Redis and SQLite
-- Conducted a security audit of a production codebase (covered by NDA), identifying vulnerabilities with documented root causes and fix patterns
-- Fixed a token refresh race condition (RC-001), verified with 10 tests, approved in peer review
+- Backend APIs with Node.js, Express, Flask, and FastAPI
+- Frontend interfaces with React, Next.js, and Tailwind CSS
+- AI and computer vision projects using PyTorch and OpenCV
+- Security-focused development — authentication, token handling, and vulnerability audits
+- Testing and deployment with Docker, Jest, and Git
 
 ---
 
 ## Featured Projects
 
 ### [FloorPlan3D](https://github.com/adityagupta000/FloorPlan) — AI Floor Plan to 3D Model Converter
-`Python` `PyTorch` `Flask` `Next.js` `Three.js`
-
-Converts 2D architectural floor plans into interactive 3D models using a custom ResNet50-UNet with attention mechanisms for semantic segmentation, trained on 5,000+ annotated floor plans. Deployed via a Flask API with real-time 3D visualization in Next.js.
+Converts 2D architectural floor plans into interactive 3D models using deep learning–based segmentation, with real-time visualization in the browser.
 
 ### [HackStack](https://github.com/adityagupta000/HackStack) — Hackathon Event Management Platform
-`Node.js` `Express` `MongoDB` `React` `Tailwind CSS`
-
-Role-based platform for managing hackathons end-to-end — event creation, participant registration, JWT-based auth, and an admin dashboard with analytics and feedback moderation.
+A role-based platform for managing hackathons — event creation, participant registration, and an admin dashboard with analytics.
 
 ### [TraceTrack](https://github.com/adityagupta000/TraceTrack) — Lost and Found Management System
-`Flask` `React` `MySQL` `Tailwind CSS`
-
-Full-stack platform for reporting and tracking lost items, with image-based reporting, role-based access, and automated stale-claim cleanup via APScheduler.
-
----
-
-## Tech Stack
-
-**Backend**
-Node.js • Express • Flask • FastAPI • REST APIs • JWT Auth
-
-**Frontend**
-React • Next.js • Tailwind CSS • Three.js • react-i18next
-
-**Databases**
-PostgreSQL • MongoDB • MySQL • Redis • SQLite
-
-**AI & ML**
-PyTorch • OpenCV • EfficientNet • ResNet • Semantic Segmentation
-
-**DevOps & Testing**
-Docker • Docker Compose • Git • Jest • Supertest • Artillery
+A full-stack platform for reporting and tracking lost items, with image-based reporting and role-based access.
 
 ---
 
 ## Let's Connect
 
-Open to Software Engineering Internships and Full-Time Full Stack / Backend Developer opportunities.
+Open to Software Engineering Internships and Full Stack Developer opportunities.
 
 [adityagupta.d7@gmail.com](mailto:adityagupta.d7@gmail.com) • [GitHub](https://github.com/adityagupta000)
