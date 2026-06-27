@@ -6,8 +6,6 @@ Mangaluru, Karnataka, India
 
 [adityagupta.d7@gmail.com](mailto:adityagupta.d7@gmail.com)
 
----
-
 ## About
 
 <p align="justify">
