@@ -49,7 +49,3 @@ I enjoy building reliable and scalable software while exploring distributed arch
 ##  Connect
 
 **Portfolio:** https://aditya-gupta-d7.vercel.app/
-
-💼 **LinkedIn:** https://linkedin.com/in/aditya-gupta-401080371
-
-📧 **Email:** adityagupta.d7@gmail.com
