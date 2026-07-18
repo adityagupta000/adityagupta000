@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=adityagupta000&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+
 # Hi there, I'm Aditya Gupta
 
 Software Engineer interested in **backend engineering**, **distributed systems**, and **machine learning**.
@@ -6,7 +8,7 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-##  Technologies
+## Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -21,7 +23,7 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-##  What I Work On
+## What I Work On
 
 - Backend development with **Python (FastAPI)** and **Node.js**
 - Distributed systems and asynchronous processing
@@ -34,7 +36,7 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 | Category             | Technologies                                   |
 | -------------------- | ---------------------------------------------- |
@@ -46,6 +48,6 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-##  Connect
+## Connect
 
 **Portfolio:** https://aditya-gupta-d7.vercel.app/
