@@ -21,7 +21,7 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-## 🚀 What I Work On
+##  What I Work On
 
 - Backend development with **Python (FastAPI)** and **Node.js**
 - Distributed systems and asynchronous processing
@@ -34,7 +34,7 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 | Category             | Technologies                                   |
 | -------------------- | ---------------------------------------------- |
@@ -46,7 +46,7 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-## 📖 Currently Learning
+##  Currently Learning
 
 - Distributed System Design
 - Scalable Backend Architectures
@@ -55,9 +55,9 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-## 🤝 Connect
+##  Connect
 
-🌐 **Portfolio:** https://your-portfolio.com
+**Portfolio:** https://aditya-gupta-d7.vercel.app/
 
 💼 **LinkedIn:** https://linkedin.com/in/aditya-gupta-401080371
 
