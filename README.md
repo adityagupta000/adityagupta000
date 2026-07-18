@@ -46,15 +46,6 @@ I enjoy building reliable and scalable software while exploring distributed arch
 
 ---
 
-##  Currently Learning
-
-- Distributed System Design
-- Scalable Backend Architectures
-- Machine Learning Infrastructure
-- Cloud-Native Technologies
-
----
-
 ##  Connect
 
 **Portfolio:** https://aditya-gupta-d7.vercel.app/
