@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=adityagupta000&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=adityagupta000&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" /> -->
 
 # Hi there, I'm Aditya Gupta
 
