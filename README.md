@@ -2,9 +2,9 @@
 
 # Hi there, I'm Aditya Gupta
 
-Computer Science graduate building backend systems, distributed applications, and machine learning infrastructure.
+Computer Science graduate building **backend systems**, **distributed applications**, and **machine learning** infrastructure.
 
-I enjoy designing reliable and scalable software while exploring distributed architectures, secure APIs, asynchronous systems, and machine learning infrastructure. My work focuses on understanding the engineering trade-offs behind system design and building practical, production-oriented solutions.
+I enjoy designing reliable and scalable software while exploring distributed architectures, secure APIs, asynchronous systems, and machine learning infrastructure. My work focuses on understanding the engineering trade-offs behind system design while building reliable and scalable software.
 
 ---
 
