@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aditya Gupta
 
-Software Engineer interested in **backend engineering**, **distributed systems**, and **machine learning**.
+Ex-Student & Software Engineer interested in **backend engineering**, **distributed systems**, and **machine learning**.
 
 I enjoy building reliable and scalable software while exploring distributed architectures, secure APIs, asynchronous systems, and machine learning infrastructure. Most of my work focuses on understanding the engineering trade-offs behind system design rather than simply building features.
 
