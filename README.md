@@ -67,4 +67,4 @@ I enjoy designing reliable and scalable software while exploring distributed arc
 
 ## Last Seen Alive
 
-![Last Commit](https://img.shields.io/github/last-commit/adityagupta000/adityagupta000?label=Last%20Seen%20Alive&style=for-the-badge&color=success&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/adityagupta000/adityagupta000?label=Last%20Seen%20Alive&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white)
