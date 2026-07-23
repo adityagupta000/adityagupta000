@@ -1,0 +1,29 @@
+name: Update Last Seen Alive
+
+on:
+  push:
+    branches:
+      - '**'
+
+jobs:
+  update-readme:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Update README with last commit date
+        run: |
+          LAST_DATE=$(date -u +"%d %B %Y, %H:%M UTC")
+          sed -i "s|<!--LAST_SEEN_START-->.*<!--LAST_SEEN_END-->|<!--LAST_SEEN_START-->Last commit: ${LAST_DATE}<!--LAST_SEEN_END-->|" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update last seen alive timestamp" && git push origin ${{ github.ref_name }})

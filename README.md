@@ -30,6 +30,7 @@ I enjoy designing reliable and scalable software while exploring distributed arc
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 ---
 
 ## What I Work On
@@ -67,4 +68,4 @@ I enjoy designing reliable and scalable software while exploring distributed arc
 
 ## Last Seen Alive
 
-![Last Commit](https://img.shields.io/github/last-commit/adityagupta000/adityagupta000?label=Last%20Seen%20Alive&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white)
+<!--LAST_SEEN_START-->Last commit: loading...<!--LAST_SEEN_END-->
