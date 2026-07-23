@@ -19,7 +19,7 @@ jobs:
 
       - name: Update README with last commit date
         run: |
-          LAST_DATE=$(date -u +"%d %B %Y, %H:%M UTC")
+          LAST_DATE=$(date -u +"%d %B %Y")
           sed -i "s|<!--LAST_SEEN_START-->.*<!--LAST_SEEN_END-->|<!--LAST_SEEN_START-->Last commit: ${LAST_DATE}<!--LAST_SEEN_END-->|" README.md
 
       - name: Commit and push if changed
