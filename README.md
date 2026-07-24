@@ -63,9 +63,3 @@ I enjoy designing reliable and scalable software while exploring distributed arc
 ## More At
 
 **Portfolio:** https://aditya-gupta-d7.vercel.app
-
----
-
-## Last Seen Alive
-
-<!--LAST_SEEN_START-->Last seen alive 23 July 2026<!--LAST_SEEN_END-->
