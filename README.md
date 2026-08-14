@@ -56,7 +56,7 @@ I enjoy designing reliable and scalable software while exploring distributed arc
 | **Machine Learning** | PyTorch, OpenCV, EasyOCR, Whisper, NumPy                  |
 | **Infrastructure**   | Docker, Kubernetes, Docker Compose, Git, Linux            |
 | **Testing**          | Pytest, Jest, Playwright                                  |
-| **Security**         | JWT, bcrypt                                               |
+| **Security**         | JWT, bcrypt, Argon2id                                     |
 
 ---
 
