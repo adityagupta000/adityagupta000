@@ -5,6 +5,7 @@
 Focused on backend engineering, distributed systems, and machine learning infrastructure. I build projects to understand how systems work, exploring the engineering decisions, trade-offs, and challenges involved in designing and implementing them.
 
 My interests include system design, secure APIs, asynchronous processing, and distributed architectures, with an emphasis on building reliable and maintainable systems.
+
 ---
 
 ## Technologies
